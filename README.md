@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paulapgueerrico
+- 👋 Hi, I’m @Paulapguerrico
 - 👀 I’m interested in  participar  
 - 🌱 I’m currently lear0ning ... html, css y js
 - 💞️ I’m looking to collaborate on ...
